@@ -10,4 +10,4 @@ The prototype of the current project is mainly developed by HTML/CSS.
 
 • CSS files - Adjust the style of the app
 
-https://github.com/AlanMarcus/Team-Gogibber-of-DECO3500/wiki
+Wiki: https://github.com/AlanMarcus/Team-Gogibber-of-DECO3500/wiki
