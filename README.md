@@ -1,7 +1,7 @@
 # Recyclce & Reuse
 This prototype is produced by the GoBigger team.                                                                                                             
 
-![Recycle_reuse](https://user-images.githubusercontent.com/88384848/137741457-5f97acb4-8c65-41c7-b05e-6e91245b3ac8.png)
+![Recycle_reuse]
 
 Design purpose: We hope that every user can understand the meaning of recycling and reuse by using our app, and make their own contribution to environmental protection.
 
