@@ -18,6 +18,3 @@ The prototype of the current project is mainly developed by HTML/CSS.
 
 # Other Materials
 • Poster:
-
-• Information sheet:
-
