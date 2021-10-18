@@ -1,5 +1,6 @@
 # Recyclce & Reuse
 This prototype is produced by the GoBigger team.
+
 Slogan: Small Move, Big Change!
 
 # Outline
