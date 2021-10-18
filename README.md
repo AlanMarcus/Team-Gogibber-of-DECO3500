@@ -1,5 +1,6 @@
 # Recyclce & Reuse
 This prototype is produced by the GoBigger team.
+Slogan: Small Move, Big Change!
 
 # Outline
 The prototype of the current project is mainly developed by HTML/CSS.
