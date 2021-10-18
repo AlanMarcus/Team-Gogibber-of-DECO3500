@@ -20,3 +20,4 @@ The prototype of the current project is mainly developed by HTML/CSS.
 • Poster:
 
 # Instruction
+Download the zip or clone the link.
