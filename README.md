@@ -21,3 +21,5 @@ The prototype of the current project is mainly developed by HTML/CSS.
 
 # Instruction
 Download the file zip or clone the link: https://github.com/AlanMarcus/Team-Gogibber-of-DECO3500.git
+
+Open the index.html file start view the prototype.
