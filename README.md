@@ -16,6 +16,8 @@ The prototype of the current project is mainly developed by HTML/CSS.
 
 • Wiki: https://github.com/AlanMarcus/Team-Gogibber-of-DECO3500/wiki
 
+• XD flow link: https://xd.adobe.com/view/e3640451-129a-4efa-8d80-5bec7bffec9d-b637/
+
 # Other Materials
 • Poster:
 
