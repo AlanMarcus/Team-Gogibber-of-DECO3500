@@ -20,6 +20,7 @@ The prototype of the current project is mainly developed by HTML/CSS.
 
 # Other Materials
 • Poster: https://github.com/AlanMarcus/Team-Gogibber-of-DECO3500/blob/main/Images/Poster.png
+
 • Information sheet: https://github.com/AlanMarcus/Team-Gogibber-of-DECO3500/blob/main/Images/information%20sheet.png
 
 # Instruction
